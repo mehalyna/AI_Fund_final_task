@@ -111,5 +111,3 @@ streamlit run streamlit_app.py
 
 ## **License**
 This project is licensed under the MIT License. Feel free to modify and use it for educational purposes.
-```
-
